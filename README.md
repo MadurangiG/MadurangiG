@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **CRUD Solutions (Pvt)Ltd**
 
-- 🌱 I’m currently learning **Software test automation**
-
 - 💬 Ask me about **Manual testing**
 
 - 📧 How to reach me **kpgmadurangi@gmail.com**
