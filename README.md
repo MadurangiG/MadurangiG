@@ -6,11 +6,7 @@
 
 - 🔭 I’m currently working on **CRUD Solutions (Pvt)Ltd**
 
-- 💬 Ask me about **Manual testing**
-
 - 📧 How to reach me **kpgmadurangi@gmail.com**
-
-- ⚡ Fun fact **Let's go on a trip.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
