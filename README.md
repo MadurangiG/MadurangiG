@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madurangig&show_icons=true&locale=en&layout=compact" alt="madurangig" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madurangig&" alt="madurangig" /></p>
