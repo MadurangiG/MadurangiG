@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madurangig&label=Profile%20views&color=0e75b6&style=flat" alt="madurangig" /> </p>
 
-- 🔭 I’m currently working on **CRUD Solutions (Pvt)Ltd**
 
 - 📧 How to reach me **kpgmadurangi@gmail.com**
 
