@@ -84,10 +84,9 @@ A repository focused on API testing demonstrating workflows, assertions, and neg
 
 ## 💬 Let’s Connect
 
-<a href="https://www.linkedin.com/in/madurangi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madurangi guruge" height="30" width="40" />🔗 LinkedIn</a>  
-<a href="https://linkedin.com/in/madurangi guruge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madurangi guruge" height="30" width="40" /></a>
-</p>
-📧 *Email:* kpgmadurangi@gmail.com  
+<a href="https://www.linkedin.com/in/madurangi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madurangi guruge" height="20" width="20" />🔗 LinkedIn</a>  
+
+📧 Email: kpgmadurangi@gmail.com  
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadurangiG&show_icons=true&theme=default)
