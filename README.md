@@ -84,7 +84,7 @@ A repository focused on API testing demonstrating workflows, assertions, and neg
 
 ## 💬 Let’s Connect
 
-<a href="https://www.linkedin.com/in/madurangi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madurangi guruge" height="20" width="20" /> Madurangi Guruge </a>  
+LinkedIn: <a href="https://www.linkedin.com/in/madurangi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madurangi guruge" height="20" width="20" /> Madurangi Guruge </a>  
 
 📧 Email: kpgmadurangi@gmail.com  
 
